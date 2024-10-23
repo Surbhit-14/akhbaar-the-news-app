@@ -2,7 +2,7 @@
 Akhbaar is an Android application designed to provide daily updates and news from all around the world. It leverages the News API to deliver the latest headlines and articles directly to your device. Built with Java and Android Studio, Akhbaar offers a seamless and intuitive user experience for staying informed on global events and topics.<br><br><br>
 
 ## Features:<br><br>
-# Daily Updates: Stay updated with the latest news headlines from various sources.<br>
+## Daily Updates: Stay updated with the latest news headlines from various sources.<br>
 # News Categories: Explore news categorized by topics such as technology, business, sports, and more.<br>
 # Search Functionality: Easily search for specific news articles or topics of interest.<br>
 # Save Favorites: Bookmark articles to read later or share with friends.<br>
