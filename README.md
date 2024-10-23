@@ -3,10 +3,10 @@ Akhbaar is an Android application designed to provide daily updates and news fro
 
 ## Features:<br><br>
 ## Daily Updates: Stay updated with the latest news headlines from various sources.<br>
-# News Categories: Explore news categorized by topics such as technology, business, sports, and more.<br>
-# Search Functionality: Easily search for specific news articles or topics of interest.<br>
-# Save Favorites: Bookmark articles to read later or share with friends.<br>
-# Responsive Design: User-friendly interface optimized for Android devices of all sizes.<br><br>
+## News Categories: Explore news categorized by topics such as technology, business, sports, and more.<br>
+## Search Functionality: Easily search for specific news articles or topics of interest.<br>
+## Save Favorites: Bookmark articles to read later or share with friends.<br>
+## Responsive Design: User-friendly interface optimized for Android devices of all sizes.<br><br>
 
 ## Technologies Used:<br>
 Android Development: Java, Android Studio<br>
@@ -39,10 +39,10 @@ This project is licensed under the MIT License. Feel free to modify and use it a
 
 
 
-# Step to install
-## 0 . download android studio<br>
-## 1 . create andoid project<br>
-## 2 . replace main folder with this folder<br>
-## 3 . update internet permission<br>
-## 4 . create your own key from news api<br>
-## 5 . perform some other required step as needed<br>
+## Step to install
+### 0 . download android studio<br>
+### 1 . create andoid project<br>
+### 2 . replace main folder with this folder<br>
+### 3 . update internet permission<br>
+### 4 . create your own key from news api<br>
+### 5 . perform some other required step as needed<br>
